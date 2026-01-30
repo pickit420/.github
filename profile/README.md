@@ -1,3 +1,9 @@
+## Who is Pickit420?
+
+Pickit420 is Lazy Media. 
+
+> This GitHub Organization belongs to and is managed by Lazy Media. This Organization was only created to make things easier for Reactive Resume. The original maintainer has the same name for both GitHub and Docker Hub. This will make things easier for long term. Would prefer to not have this organization, but o-well...
+
 ## Who is Lazy Media?
 
 I'm someone who apparently thought maintaining an open source project would be easier than it looks. Spoiler: I was wrong. By day, I'm a normal person with a full-time job, and by night (and weekends), I'm a GitHub newbie trying to fix things in Reactive Resume without breaking them further.
